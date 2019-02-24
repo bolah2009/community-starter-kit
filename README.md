@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- This project is open source 
+- This Project can accept contribution from anyone 
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- This is a learning repo
+- This project trains new user how to create and contribute to open source projects
 
 ## Getting started
 
